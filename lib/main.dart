@@ -3,7 +3,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'dart:async';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:lone/fullscreen_img.dart';
-import 'package:firebase_admob/firebase_admob.dart';
 
 void main() => runApp(MyApp());
 
