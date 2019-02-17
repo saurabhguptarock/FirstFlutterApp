@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1055411657073",
+    "firebase_url": "https://saverl-bea77.firebaseio.com",
+    "project_id": "saverl-bea77",
+    "storage_bucket": "saverl-bea77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055411657073:android:433619c2a1c032f4",
+        "android_client_info": {
+          "package_name": "com.saverl.lone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055411657073-vodnl032uaki4knkfdhp1luikbib9qq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrq6jQGIg5jNdiVk6Nw5msgzR8Bsol_3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
